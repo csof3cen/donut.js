@@ -2,4 +2,4 @@
 
 ![image](preview/preview.png)
 
-[The article explaining how it works](https://www.a1k0n.net/2011/07/20/donut-math.html)
+[See the article explaining how it works](https://www.a1k0n.net/2011/07/20/donut-math.html).
